@@ -17,8 +17,8 @@ Mes ambitions sont d‘évoluer dans une entreprise active et orientée clients,
 Vous pouvez en apprendre un peu plus sur moi et me contacter via [LinkedIn](www.linkedin.com/in/christian-jadot-630320)
 
 ## Plus infos 🏍
-Mes connaissances en langues : Français, Nederlands (B1), English (A2)
-Je consacre une partie de mon temps à perfectionner mon anglais, l'immersion en entreprise serait l'idéal 😉.
+Mes connaissances en langues : Français, Nederlands (B1), English (A2)<br>
+Je consacre une partie de mon temps à perfectionner mon anglais, l'immersion en entreprise serait l'idéal 😉.<br>
 Je suis un passionné de nature, de lecture et de ... moto 🤙 !
 
 
