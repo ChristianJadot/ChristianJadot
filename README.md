@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianJadot&show_icons=true&theme=default)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJadot&langs_count=8)](https://github.com/ChristianJadot/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJadot&layout=compact)](https://github.com/ChristianJadot/github-readme-stats)
 
 
