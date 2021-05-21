@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-## À propos de moi 🤔
+## À propos de moi 😎
 J'ai 58 ans, j'habite Sterrebeek, aux limites de Bruxelles et j'ai souhaité entreprendre cette formation BeCode afin de me donner un nouveau souffle et rester dans un domaine que je connais déjà depuis pas mal d'années, l'infographie-Webdesign... Cette formation me semblait donc être la continuité logique de ce que je connaissais déjà...<br><br>
 Cette formation que je suis en tant que développeur web junior, n‘est pas la seule corde à mon arc, et je peux faire bien d‘autres choses, infographiste - webdesign - Communication - Teamleader... et tout récemment, grâce à cette formation, je peux envisager d'un regard très intéressé la fonction de Project Manager, pour laquelle je compte me plonger dans certaines formations dédiées.<br><br>
 J'ai eu l'occasion de travailler sur divers projets en solo ou en équipe, ce qui est très intéressant et tout aussi motivant, les échanges d'idées et voir comment fonctionnent les collègues est toujours intéressants, car on apprend aussi beaucoup des autres...<br><br>
