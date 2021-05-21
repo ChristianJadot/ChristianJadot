@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/ChristianJadot/github-readme-stats)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristianJadot&repo=github-readme-stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianJadot&layout=compact)](https://github.com/ChristianJadot/github-readme-stats)
 
 
 
