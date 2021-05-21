@@ -10,7 +10,7 @@ Mes ambitions sont d‘évoluer dans une entreprise active et orientée clients,
 
 
 ## Contactez Moi 🛎
-Vous pouvez en apprendre un peu plus sur moi et me contacter via [LinkedIn](www.linkedin.com/in/christian-jadot-630320)
+Vous pouvez en apprendre un peu plus sur moi et me contacter via [LinkedIn](https://www.linkedin.com/in/christian-jadot-630320)
 
 ## Plus infos 🏍
 Mes connaissances en langues : Français, Nederlands (B1), English (A2)<br>
