@@ -10,10 +10,10 @@ Mes valeurs personnelles principales sont l‘humain, la confiance, la positivit
 Mes ambitions sont d‘évoluer dans une entreprise active et orientée clients, mais toujours attachée à son personnel et à tous ceux qui la font grandir !
 
 
-## Contactez Moi 🛎
+## Contactez-moi 🛎
 Vous pouvez en apprendre un peu plus sur moi et me contacter via [LinkedIn](https://www.linkedin.com/in/christian-jadot-630320)
 
-## Plus infos 🏍
+## Plus d'infos 🏍
 Mes connaissances en langues : Français, Nederlands (B1), English (B1)<br>
 Je consacre une partie de mon temps à perfectionner mon anglais et mon néerlandais... l'immersion en entreprise serait l'idéal 😉.<br>
 Je suis un passionné de nature, de lecture et de ... moto 🤙 !
